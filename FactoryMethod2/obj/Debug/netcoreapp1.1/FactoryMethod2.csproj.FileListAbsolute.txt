@@ -1,0 +1,10 @@
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/FactoryMethod2/bin/Debug/netcoreapp1.1/FactoryMethod2.deps.json
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/FactoryMethod2/bin/Debug/netcoreapp1.1/FactoryMethod2.runtimeconfig.json
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/FactoryMethod2/bin/Debug/netcoreapp1.1/FactoryMethod2.runtimeconfig.dev.json
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/FactoryMethod2/bin/Debug/netcoreapp1.1/FactoryMethod2.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/FactoryMethod2/bin/Debug/netcoreapp1.1/FactoryMethod2.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/FactoryMethod2/bin/Debug/netcoreapp1.1/Utility.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/FactoryMethod2/bin/Debug/netcoreapp1.1/Utility.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/FactoryMethod2/obj/Debug/netcoreapp1.1/FactoryMethod2.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/FactoryMethod2/obj/Debug/netcoreapp1.1/FactoryMethod2.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/FactoryMethod2/obj/Debug/netcoreapp1.1/FactoryMethod2.pdb

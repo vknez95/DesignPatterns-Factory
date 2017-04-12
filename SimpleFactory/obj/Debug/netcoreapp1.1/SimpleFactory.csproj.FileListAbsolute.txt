@@ -1,0 +1,10 @@
+/Users/vknez/Documents/Technology/DesignPatterns/Factory4/Factory/SimpleFactory/bin/Debug/netcoreapp1.1/SimpleFactory.deps.json
+/Users/vknez/Documents/Technology/DesignPatterns/Factory4/Factory/SimpleFactory/bin/Debug/netcoreapp1.1/SimpleFactory.runtimeconfig.json
+/Users/vknez/Documents/Technology/DesignPatterns/Factory4/Factory/SimpleFactory/bin/Debug/netcoreapp1.1/SimpleFactory.runtimeconfig.dev.json
+/Users/vknez/Documents/Technology/DesignPatterns/Factory4/Factory/SimpleFactory/bin/Debug/netcoreapp1.1/SimpleFactory.dll
+/Users/vknez/Documents/Technology/DesignPatterns/Factory4/Factory/SimpleFactory/bin/Debug/netcoreapp1.1/SimpleFactory.pdb
+/Users/vknez/Documents/Technology/DesignPatterns/Factory4/Factory/SimpleFactory/bin/Debug/netcoreapp1.1/Utility.dll
+/Users/vknez/Documents/Technology/DesignPatterns/Factory4/Factory/SimpleFactory/bin/Debug/netcoreapp1.1/Utility.pdb
+/Users/vknez/Documents/Technology/DesignPatterns/Factory4/Factory/SimpleFactory/obj/Debug/netcoreapp1.1/SimpleFactory.AssemblyInfo.cs
+/Users/vknez/Documents/Technology/DesignPatterns/Factory4/Factory/SimpleFactory/obj/Debug/netcoreapp1.1/SimpleFactory.dll
+/Users/vknez/Documents/Technology/DesignPatterns/Factory4/Factory/SimpleFactory/obj/Debug/netcoreapp1.1/SimpleFactory.pdb
