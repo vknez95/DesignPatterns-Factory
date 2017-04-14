@@ -1,0 +1,10 @@
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/AbstractFactory/bin/Debug/netcoreapp1.1/AbstractFactory.deps.json
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/AbstractFactory/bin/Debug/netcoreapp1.1/AbstractFactory.runtimeconfig.json
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/AbstractFactory/bin/Debug/netcoreapp1.1/AbstractFactory.runtimeconfig.dev.json
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/AbstractFactory/bin/Debug/netcoreapp1.1/AbstractFactory.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/AbstractFactory/bin/Debug/netcoreapp1.1/AbstractFactory.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/AbstractFactory/bin/Debug/netcoreapp1.1/Utility.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/AbstractFactory/bin/Debug/netcoreapp1.1/Utility.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/AbstractFactory/obj/Debug/netcoreapp1.1/AbstractFactory.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/AbstractFactory/obj/Debug/netcoreapp1.1/AbstractFactory.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Factory/AbstractFactory/obj/Debug/netcoreapp1.1/AbstractFactory.pdb

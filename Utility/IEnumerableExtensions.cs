@@ -25,7 +25,6 @@ namespace Utility
 
             if (isEmpty)
                 yield return defaultFactory();
-
         }
     }
 }

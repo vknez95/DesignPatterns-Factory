@@ -36,7 +36,6 @@ namespace FactoryMethod
                 .GetEntryAssembly()
                 .GetTypes()
                 .Where(type => type.Name == factoryName)
-                .LazyDefaultIfEmpty(() => typeof(BMWFactory))
                 .Single();
 
             return

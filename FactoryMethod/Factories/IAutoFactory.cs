@@ -6,5 +6,4 @@ namespace FactoryMethod.Factories
     {
         IAuto CreateAutomobile();
     }
-
 }
